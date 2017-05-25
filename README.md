@@ -8,3 +8,7 @@ swift build
 
 then activate imastodondon in the Dock.
 
+## Acknowledgements
+
+[IKEventSource](https://github.com/inaka/EventSource)
+
