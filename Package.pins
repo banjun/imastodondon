@@ -1,0 +1,18 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Himotoki",
+      "reason": null,
+      "repositoryURL": "https://github.com/ikesyo/Himotoki",
+      "version": "3.0.1"
+    },
+    {
+      "package": "Kingfisher",
+      "reason": null,
+      "repositoryURL": "https://github.com/onevcat/Kingfisher",
+      "version": "3.9.1"
+    }
+  ],
+  "version": 1
+}
